@@ -1,26 +1,28 @@
-# Change these first
-owner: joevaughan # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: joevaughan
+repo: upptime
+
+assignees: 
+  - joevaughan
 
 sites:
-  - name: Joe Vaughan
+  - name: joevaughan.com (my portfolio)
     url: https://joevaughan.com
-  - name: Dr Veoj
+  - name: dr.veoj.me (my gaming persona)
     url: https://dr.veoj.me
-  - name: Snipz
+  - name: snipz.io (snippet manager)
     url: https://snipz.io
-  - name: Pareto Principals Ltd
+  - name: paretoprincipals.co.uk (my company)
     url: https://paretoprincipals.co.uk
-  - name: The Photography Waffle
+  - name: thephotographywaffle.com (my podcast)
     url: https://thephotographywaffle.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: My site statuses
+  theme: dark
+  name:  Status
   introTitle: "**Status** The statuses of the websites I run"
   introMessage: These are the current statuses (and stats) for the sites
   navbar:
@@ -28,6 +30,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration

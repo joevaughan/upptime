@@ -21,7 +21,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  theme: dark
+  theme: night
   name:  Status
   introTitle: "**Status** The statuses of the websites I run"
   introMessage: These are the current statuses (and stats) for the sites

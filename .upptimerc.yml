@@ -24,7 +24,7 @@ status-website:
   theme: light
   name:  Status
   introTitle: "**Status** The statuses of the websites I run"
-  introMessage: These are the current statuses (and stats) for the sites
+  #introMessage: These are the current statuses (and stats) for the sites
   navbar:
     - title: Status
       href: /

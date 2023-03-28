@@ -23,8 +23,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: light
   name:  Status
-  introTitle: "**Status** The statuses of the websites I run"
-  #introMessage: These are the current statuses (and stats) for the sites
+  #introTitle: "**Status** The statuses of the websites I run"
+  introMessage: These are the current statuses (and stats) for the sites
   navbar:
     - title: Status
       href: /

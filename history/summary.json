@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 660,
-    "timeDay": 487,
-    "timeWeek": 543,
-    "timeMonth": 640,
-    "timeYear": 660,
+    "time": 658,
+    "timeDay": 496,
+    "timeWeek": 513,
+    "timeMonth": 635,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2023-03-28": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 656,
-    "timeDay": 454,
-    "timeWeek": 670,
-    "timeMonth": 671,
-    "timeYear": 656,
+    "time": 654,
+    "timeDay": 561,
+    "timeWeek": 660,
+    "timeMonth": 667,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2023-03-28": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 426,
-    "timeDay": 404,
-    "timeWeek": 342,
-    "timeMonth": 366,
-    "timeYear": 426,
+    "time": 423,
+    "timeDay": 245,
+    "timeWeek": 327,
+    "timeMonth": 362,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2023-03-28": 19
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/paretoprincipals.co.uk.ico",
     "slug": "paretoprincipals-co-uk-my-company",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 550,
-    "timeDay": 387,
-    "timeWeek": 501,
-    "timeMonth": 547,
-    "timeYear": 550,
+    "uptimeYear": "99.98%",
+    "time": 548,
+    "timeDay": 420,
+    "timeWeek": 454,
+    "timeMonth": 540,
+    "timeYear": 548,
     "dailyMinutesDown": {
       "2023-03-28": 18
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 549,
-    "timeDay": 425,
-    "timeWeek": 449,
-    "timeMonth": 533,
-    "timeYear": 549,
+    "time": 547,
+    "timeDay": 410,
+    "timeWeek": 426,
+    "timeMonth": 524,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2023-03-28": 18
     }

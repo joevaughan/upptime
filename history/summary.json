@@ -4,18 +4,19 @@
     "url": "https://joevaughan.com",
     "icon": "https://icons.duckduckgo.com/ip3/joevaughan.com.ico",
     "slug": "joevaughan-com-my-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.93%",
     "time": 697,
     "timeDay": 691,
-    "timeWeek": 1093,
+    "timeWeek": 692,
     "timeMonth": 810,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2023-07-08": 2,
       "2023-07-03": 77,
       "2023-03-28": 20
     }
@@ -25,18 +26,19 @@
     "url": "https://dr.veoj.me",
     "icon": "https://icons.duckduckgo.com/ip3/dr.veoj.me.ico",
     "slug": "dr-veoj-me-my-gaming-persona",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.93%",
     "time": 625,
     "timeDay": 572,
     "timeWeek": 543,
     "timeMonth": 585,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2023-07-08": 2,
       "2023-07-03": 76,
       "2023-03-28": 19
     }
@@ -46,10 +48,10 @@
     "url": "https://snipz.io",
     "icon": "https://icons.duckduckgo.com/ip3/snipz.io.ico",
     "slug": "snipz-io-snippet-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
     "time": 384,
@@ -58,6 +60,7 @@
     "timeMonth": 339,
     "timeYear": 384,
     "dailyMinutesDown": {
+      "2023-07-08": 1,
       "2023-07-03": 74,
       "2023-03-28": 19
     }
@@ -67,10 +70,10 @@
     "url": "https://paretoprincipals.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/paretoprincipals.co.uk.ico",
     "slug": "paretoprincipals-co-uk-my-company",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
     "time": 556,
@@ -79,6 +82,7 @@
     "timeMonth": 581,
     "timeYear": 556,
     "dailyMinutesDown": {
+      "2023-07-08": 1,
       "2023-07-03": 73,
       "2023-03-28": 18
     }
@@ -88,10 +92,10 @@
     "url": "https://thephotographywaffle.com",
     "icon": "https://icons.duckduckgo.com/ip3/thephotographywaffle.com.ico",
     "slug": "thephotographywaffle-com-my-podcast",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.30%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
     "time": 545,
@@ -100,6 +104,7 @@
     "timeMonth": 553,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2023-07-08": 0,
       "2023-07-03": 71,
       "2023-03-28": 18
     }

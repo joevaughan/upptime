@@ -11,8 +11,6 @@ sites:
     url: https://snipz.io
   - name: paretoprincipals.co.uk (my company)
     url: https://paretoprincipals.co.uk
-  - name: thephotographywaffle.com (my podcast)
-    url: https://thephotographywaffle.com
 
 status-website:
 

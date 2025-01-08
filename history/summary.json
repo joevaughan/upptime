@@ -6,15 +6,15 @@
     "slug": "joevaughan-com-my-portfolio",
     "status": "up",
     "uptime": "97.70%",
-    "uptimeDay": "98.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.51%",
-    "time": 744,
-    "timeDay": 692,
-    "timeWeek": 826,
-    "timeMonth": 800,
-    "timeYear": 758,
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "97.06%",
+    "time": 745,
+    "timeDay": 796,
+    "timeWeek": 830,
+    "timeMonth": 812,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2025-01-05": 19,
       "2024-12-18": 108,
@@ -34,9 +34,7 @@
       "2024-05-19": 921,
       "2024-05-13": 27,
       "2024-03-03": 31,
-      "2024-01-10": 843,
-      "2024-01-09": 1440,
-      "2024-01-08": 1440
+      "2024-01-10": 843
     }
   },
   {
@@ -46,15 +44,15 @@
     "slug": "snipz-io-snippet-manager",
     "status": "up",
     "uptime": "97.71%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "96.52%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "97.06%",
     "time": 491,
-    "timeDay": 998,
-    "timeWeek": 588,
-    "timeMonth": 484,
-    "timeYear": 534,
+    "timeDay": 433,
+    "timeWeek": 586,
+    "timeMonth": 483,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2025-01-05": 19,
       "2024-12-18": 106,
@@ -73,9 +71,7 @@
       "2024-05-19": 921,
       "2024-05-13": 26,
       "2024-03-03": 31,
-      "2024-01-10": 843,
-      "2024-01-09": 1440,
-      "2024-01-08": 1440
+      "2024-01-10": 843
     }
   },
   {
@@ -84,15 +80,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paretoprincipals.co.uk.ico",
     "slug": "paretoprincipals-co-uk-my-company",
     "status": "up",
-    "uptime": "97.71%",
-    "uptimeDay": "98.72%",
+    "uptime": "97.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "96.90%",
-    "uptimeYear": "96.52%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "97.07%",
     "time": 648,
-    "timeDay": 1111,
-    "timeWeek": 855,
-    "timeMonth": 794,
+    "timeDay": 627,
+    "timeWeek": 815,
+    "timeMonth": 800,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2025-01-05": 19,
@@ -112,9 +108,7 @@
       "2024-05-19": 921,
       "2024-05-13": 25,
       "2024-03-03": 31,
-      "2024-01-10": 843,
-      "2024-01-09": 1440,
-      "2024-01-08": 1440
+      "2024-01-10": 843
     }
   }
 ]

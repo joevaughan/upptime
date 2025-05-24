@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "97.86%",
+    "uptimeYear": "98.13%",
     "time": 758,
-    "timeDay": 551,
-    "timeWeek": 656,
-    "timeMonth": 653,
+    "timeDay": 908,
+    "timeWeek": 680,
+    "timeMonth": 659,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-05-06": 456,
@@ -35,8 +35,7 @@
       "2024-10-17": 108,
       "2024-06-15": 27,
       "2024-05-26": 558,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
@@ -49,11 +48,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "97.85%",
+    "uptimeYear": "98.13%",
     "time": 602,
-    "timeDay": 289,
-    "timeWeek": 392,
-    "timeMonth": 1552,
+    "timeDay": 472,
+    "timeWeek": 397,
+    "timeMonth": 1551,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2025-05-06": 456,
@@ -74,8 +73,7 @@
       "2024-10-22": 19,
       "2024-10-17": 107,
       "2024-05-26": 567,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
@@ -84,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paretoprincipals.co.uk.ico",
     "slug": "paretoprincipals-co-uk-my-company",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "97.87%",
+    "uptimeYear": "98.14%",
     "time": 703,
-    "timeDay": 936,
-    "timeWeek": 1069,
-    "timeMonth": 710,
+    "timeDay": 639,
+    "timeWeek": 1088,
+    "timeMonth": 712,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2025-05-06": 456,
@@ -113,8 +111,7 @@
       "2024-10-22": 19,
       "2024-10-17": 106,
       "2024-05-26": 550,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   }
 ]

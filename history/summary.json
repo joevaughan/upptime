@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/joevaughan.com.ico",
     "slug": "joevaughan-com-my-portfolio",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.40%",
     "time": 758,
-    "timeDay": 908,
-    "timeWeek": 680,
-    "timeMonth": 659,
+    "timeDay": 731,
+    "timeWeek": 693,
+    "timeMonth": 669,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-05-06": 456,
@@ -34,8 +34,7 @@
       "2024-10-22": 21,
       "2024-10-17": 108,
       "2024-06-15": 27,
-      "2024-05-26": 558,
-      "2024-05-25": 1440
+      "2024-05-26": 558
     }
   },
   {
@@ -48,12 +47,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.40%",
     "time": 602,
-    "timeDay": 472,
-    "timeWeek": 397,
-    "timeMonth": 1551,
-    "timeYear": 688,
+    "timeDay": 476,
+    "timeWeek": 405,
+    "timeMonth": 1622,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2025-05-06": 456,
       "2025-05-05": 390,
@@ -72,8 +71,7 @@
       "2024-10-30": 53,
       "2024-10-22": 19,
       "2024-10-17": 107,
-      "2024-05-26": 567,
-      "2024-05-25": 1440
+      "2024-05-26": 567
     }
   },
   {
@@ -86,12 +84,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "98.14%",
-    "time": 703,
-    "timeDay": 639,
-    "timeWeek": 1088,
-    "timeMonth": 712,
-    "timeYear": 635,
+    "uptimeYear": "98.42%",
+    "time": 702,
+    "timeDay": 351,
+    "timeWeek": 1053,
+    "timeMonth": 702,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2025-05-06": 456,
       "2025-05-05": 389,
@@ -110,8 +108,7 @@
       "2024-10-30": 52,
       "2024-10-22": 19,
       "2024-10-17": 106,
-      "2024-05-26": 550,
-      "2024-05-25": 1440
+      "2024-05-26": 550
     }
   }
 ]

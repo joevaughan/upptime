@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "98.40%",
-    "time": 758,
-    "timeDay": 731,
-    "timeWeek": 693,
-    "timeMonth": 669,
+    "uptimeYear": "98.68%",
+    "time": 759,
+    "timeDay": 889,
+    "timeWeek": 745,
+    "timeMonth": 681,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2025-05-06": 456,
@@ -33,8 +33,7 @@
       "2024-10-30": 55,
       "2024-10-22": 21,
       "2024-10-17": 108,
-      "2024-06-15": 27,
-      "2024-05-26": 558
+      "2024-06-15": 27
     }
   },
   {
@@ -43,16 +42,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/snipz.io.ico",
     "slug": "snipz-io-snippet-manager",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.68%",
     "time": 602,
-    "timeDay": 476,
-    "timeWeek": 405,
-    "timeMonth": 1622,
-    "timeYear": 687,
+    "timeDay": 392,
+    "timeWeek": 402,
+    "timeMonth": 1621,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2025-05-06": 456,
       "2025-05-05": 390,
@@ -70,8 +69,7 @@
       "2024-12-07": 655,
       "2024-10-30": 53,
       "2024-10-22": 19,
-      "2024-10-17": 107,
-      "2024-05-26": 567
+      "2024-10-17": 107
     }
   },
   {
@@ -84,11 +82,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "98.42%",
+    "uptimeYear": "98.69%",
     "time": 702,
-    "timeDay": 351,
-    "timeWeek": 1053,
-    "timeMonth": 702,
+    "timeDay": 649,
+    "timeWeek": 1081,
+    "timeMonth": 706,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2025-05-06": 456,
@@ -107,8 +105,7 @@
       "2024-12-07": 654,
       "2024-10-30": 52,
       "2024-10-22": 19,
-      "2024-10-17": 106,
-      "2024-05-26": 550
+      "2024-10-17": 106
     }
   }
 ]

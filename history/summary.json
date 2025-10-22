@@ -6,15 +6,15 @@
     "slug": "joevaughan-com-my-portfolio",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "94.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "98.72%",
     "time": 783,
-    "timeDay": 506,
-    "timeWeek": 1512,
-    "timeMonth": 968,
-    "timeYear": 779,
+    "timeDay": 720,
+    "timeWeek": 1510,
+    "timeMonth": 972,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2025-10-20": 77,
       "2025-10-18": 21,
@@ -34,8 +34,7 @@
       "2024-12-18": 108,
       "2024-12-08": 581,
       "2024-12-07": 657,
-      "2024-10-30": 55,
-      "2024-10-22": 21
+      "2024-10-30": 55
     }
   },
   {
@@ -45,13 +44,13 @@
     "slug": "snipz-io-snippet-manager",
     "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "94.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "98.43%",
     "time": 873,
-    "timeDay": 297,
-    "timeWeek": 1271,
+    "timeDay": 447,
+    "timeWeek": 1267,
     "timeMonth": 1708,
     "timeYear": 947,
     "dailyMinutesDown": {
@@ -75,8 +74,7 @@
       "2024-12-18": 106,
       "2024-12-08": 581,
       "2024-12-07": 655,
-      "2024-10-30": 53,
-      "2024-10-22": 19
+      "2024-10-30": 53
     }
   },
   {
@@ -85,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/paretoprincipals.co.uk.ico",
     "slug": "paretoprincipals-co-uk-my-company",
     "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "94.85%",
+    "uptime": "98.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "98.73%",
-    "time": 646,
-    "timeDay": 540,
-    "timeWeek": 911,
-    "timeMonth": 686,
-    "timeYear": 663,
+    "time": 645,
+    "timeDay": 435,
+    "timeWeek": 899,
+    "timeMonth": 685,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2025-10-20": 74,
       "2025-10-18": 20,
@@ -114,8 +112,7 @@
       "2024-12-18": 105,
       "2024-12-08": 581,
       "2024-12-07": 654,
-      "2024-10-30": 52,
-      "2024-10-22": 19
+      "2024-10-30": 52
     }
   }
 ]
